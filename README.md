@@ -2,7 +2,7 @@
 
 Web-based online shop application using CodeIgniter 3 framework.
 
-## Input Login
+## Login Credentials
 
 |      User     |       Email      	|    Password   |
 |:-------------:|:-----------------:|:-------------:|
